@@ -7,6 +7,13 @@ in order to improve your everyday life :)
 
 ## Versions
 
+### v1.2
+
+- [vim] Add some basic settings
+- [vim] Add Nerdtree binding on Ctrl-O
+- [vim] Add some place for status bar
+- [vim] Add status bar
+
 ### v1.1
 
 Added a rc file for vim with toggle key to show/hide invisible chars
