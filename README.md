@@ -2,10 +2,15 @@
 
 ## description
 
-the aim of this repo is to provide some parts which could be added to every .bashrc files
+the aim of this repo is to provide some parts which could be added to every .bashrc and .vimrc files
 in order to improve your everyday life :)
 
 ## Versions
+
+### v1.3
+
+- [vim] Add some basic settings
+- [vim] Add cscope
 
 ### v1.2
 
